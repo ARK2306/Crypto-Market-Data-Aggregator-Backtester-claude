@@ -1,0 +1,9 @@
+.git
+.github
+__pycache__
+*.pyc
+.pytest_cache
+.venv
+venv
+market_data.db
+backtest_results.png
